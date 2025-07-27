@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on
 - - **Generic-entity-models**: which is a set of tools for postgresql databases with nodejs. more on: [generic-entity-models](https://github.com/ezequielgmart/generic_entity_models)
 - - **job_tracker**: Full stack web application to track job applications. Powered by Nodejs, Express, Postgresql, and React. more on: [job_tracker]((https://github.com/ezequielgmart/job_tracker))
-- - **ikarus-engine**: ECS game engine powered by pygame for 2D games: [ikarus-engine](((https://github.com/ezequielgmart/ikarus-engine-core)))
+- - **ikarus-engine**: ECS game engine powered by pygame for 2D games: more on: [ikarus-engine](((https://github.com/ezequielgmart/ikarus-engine-core)))
 
 - 🌱 I’m currently learning **Integration and Unit testing** with Jest & Vitest
 
