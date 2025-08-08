@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hi there! I'm Ezequiel Guzman</h1>
-<h3 align="center">A passionate Full-Stack Developer, focused on Node.js, Express, React, and PostgreSQL.</h3>
+<h3 align="center">A passionate Full-Stack Developer, focused on Python, React, and PostgreSQL.</h3>
 
 ---
 
 ### 🚀 I'm currently working on:
 
--   **[Generic-entity-models](https://github.com/ezequielgmart/generic_entity_models)**: A set of tools for PostgreSQL databases with Node.js.
 -   **[job_tracker](https://github.com/ezequielgmart/job_tracker)**: A full-stack web application for tracking job applications. Powered by Node.js, Express, PostgreSQL, and React.
 -   **[ikarus-engine](https://github.com/ezequielgmart/ikarus-engine-core)**: An ECS game engine for 2D games, powered by Pygame.
 
