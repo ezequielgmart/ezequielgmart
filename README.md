@@ -3,11 +3,6 @@
 
 ---
 
-### 🚀 I'm currently working on:
-
--   **[job_tracker](https://github.com/ezequielgmart/job_tracker)**: A full-stack web application for tracking job applications. Powered by Node.js, Express, PostgreSQL, and React.
--   **[ikarus-engine](https://github.com/ezequielgmart/ikarus-engine-core)**: An ECS game engine for 2D games, powered by Pygame.
-
 ### 🌱 I'm currently learning:
 
 -   **Integration and Unit Testing** with Jest & Vitest.
@@ -48,6 +43,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+</p>
+<p>
+  
+
+<!-- ### 🚀 I'm currently working on:
+
+-   **[job_tracker](https://github.com/ezequielgmart/job_tracker)**: A full-stack web application for tracking job applications. Powered by Node.js, Express, PostgreSQL, and React.
+-   **[ikarus-engine](https://github.com/ezequielgmart/ikarus-engine-core)**: An ECS game engine for 2D games, powered by Pygame.
+ -->
+
 </p>
 
 ---
