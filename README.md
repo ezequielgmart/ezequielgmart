@@ -4,7 +4,9 @@
 ---
 
 ### 🌱 I'm currently learning:
--   **Integration and Unit Testing** with Jest & Vitest.
+-   **Agentic coding** with VScode and deepseek API.
+-   **Software Architecture and Clean Code** with personal projects coded on Hexagonal Architecture.
+
 
 ### ✉️ How to reach me:
 -   **ezequielgm677@gmail.com**
